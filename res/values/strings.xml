@@ -597,11 +597,6 @@
     <string name="auto_power_save_summary_off">Do not enable power save mode automatically</string>
     <string name="auto_power_save_never">Never</string>
 
-    <!-- Applications: Long screen -->
-    <string name="long_screen_settings_title">Full screen apps</string>
-    <string name="long_screen_settings_summary">Force legacy apps to use full screen aspect ratio</string>
-    <string name="long_screen_settings_no_apps">No apps</string>
-
     <!-- Sounds: Charging sounds -->
     <string name="charging_sounds_settings_title">Charging sounds</string>
     <string name="charging_sounds_enabled_title">Enable</string>
